@@ -1,0 +1,10 @@
+{
+  "name": "next",
+  "version": "0.0.1",
+  "dependencies": {
+    "next": "^4.4.0-canary.3"
+  },
+  "renovate": {
+    "pinVersions": false
+  }
+}
